@@ -34,11 +34,11 @@ h1 {
 }
 .nav {
     color: #4B4B4B;
-    margin-top: 5%;
+    margin-top: 150px;
     width: 35%;
     padding-left:0;
     padding-right: 0;
-    margin-right: 20px;
+    margin-right: 120px;
 }
  .navName {
      color: #4B4B4B;
@@ -49,7 +49,10 @@ h1 {
      text-decoration: none;
      color: #4B4B4B;
  }
-
+ .navbar-brand:hover{
+     color: #AF9574;
+     text-decoration: none;
+ }
  /* Content- Header */
  .rowHeader {
      margin-top: 200px;
