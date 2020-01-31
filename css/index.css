@@ -16,6 +16,17 @@ h1 {
     text-transform: uppercase;
     color: #AF9574;
 }
+.chevronTop {
+    font-size: 35px;
+    color: #AF9574;
+    position:absolute;
+    right: 200px;
+    padding-top: 100px;
+    margin-bottom: 200px;
+}
+.chevronTop:hover {
+    opacity: 75%;
+}
 /* Navigation Bar */
 .navbar {
     text-transform: uppercase;
@@ -163,6 +174,15 @@ header {
     animation: an 4s ease-in-out;
     animation-iteration-count: infinite;
 }
+.hoverCard1 {
+    width:35%;
+    margin-top: 150px;
+    margin-left: 500px;
+}
+
+
+
+
 
 /* Breakpoints */
 @media only screen and (max-width:1650px) {
@@ -175,7 +195,6 @@ header {
     text-align: left;
     margin-right: 100px;
 }
-
 
 /* Centered Content */
 .rowCenter {
