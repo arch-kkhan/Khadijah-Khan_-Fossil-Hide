@@ -9,7 +9,6 @@ body {
     margin-left: 0;
     padding-left: 0;
     padding-right: 0;
-    background-color: #fcfbfa;
 }
 h1 {
     font-family: 'raleway',sans-serif;
@@ -256,23 +255,23 @@ header {
 }
 @media only screen and (max-width:500px){
     .rowCenter {
-        margin-top: 50px;
-        text-align: center;
-        margin-left: 50px;
+        margin-top: 20px;
+        text-align: left;
+        margin-left: 20px;
      }
      .contentCenter {
         text-align: left;
-        margin-left: 50px;
-        margin-right: 50px;
+        margin-left: 2px;
+        margin-right: 20px;
         margin-bottom: 50px;
      }
     .rowHeader {
-        margin-top: 100px;
-        margin-left: 50px;
+        margin-top: 50px;
+        margin-left: 20px;
     }
     .content {
         text-align: left;
-        margin-right: 50px;
+        margin-right: 20px;
     }
     .homeImg {
         left: 100px;
