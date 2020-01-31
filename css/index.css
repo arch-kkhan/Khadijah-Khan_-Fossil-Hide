@@ -274,41 +274,54 @@ header {
         margin-right: 20px;
     }
     .homeImg {
-        left: 100px;
+        left: 35px;
+        width: 100%;
+
     }
     .mobileImg {
-        left:50px;
+        left:35px;
+        width: 100%;
     }
     .timelineImg {
-        left: 50px;
+        left: 25px;
+        width: 100%;
     }
     .userImg {
-        margin-left: 75px;
+        margin-left: 25px;
+        width: 100%;
+        margin-bottom: 25px;
     }
     .journeyImg {
-        margin-left: 50px;
-        margin-bottom: 50px;
-        width: 65%;
+        margin-left: 25px;
+        margin-bottom: 25px;
+        margin-top: 0;
+        width: 100%
     }
     .storyImg1 {
-      margin-left: 50px;
-        margin-bottom: 50px;
-        width: 65%;
+        margin-left: 35px;
+        margin-bottom: 25px;
+        margin-top: 0;
+        width: 100%;
     }
     .storyImg2 {
-        width: 65%;
-        margin-left: 50px;
-        margin-top:50px;
+        margin-left: 35px;
+        margin-bottom: 25px;
+        margin-top: 0;
+        width: 100%;
     }
     .affinityImg {
-     
+        width: 100%;
+        margin-left: 0px;
+        margin-right: 0;
+        padding: 0;
     }
     .businessImg {
-        width: 65%;
-        margin-left:50px;
+        width:100%;
+        margin-left:35px;
     }
     .styleImg {
-        margin-left: 50px;
+        margin-left: 35px;
+        width: 100%;
     }
 }
     
