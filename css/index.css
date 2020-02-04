@@ -61,8 +61,6 @@ h1 {
     right: 55px;
     border-bottom: solid 1px black;
   }
-
-  
   .topnav a:hover {
     background-color: none;
     color: #AF9574;
@@ -120,6 +118,9 @@ h1 {
  .content {
      text-align: left;
      margin-right: 200px;
+ }
+ .mainHeader {
+     margin-left: 100px;
  }
 
 
@@ -233,6 +234,10 @@ header {
     width:35%;
     margin-top: 150px;
     margin-left: 500px;
+}
+.styleboard {
+    width: 100%;
+    margin-top: 150px;
 }
 /* Breakpoints */
 @media only screen and (max-width:1650px) {
