@@ -80,8 +80,8 @@ h1 {
     display: none;
     border-bottom: none;
   }
-  .navBar {
-      border: none;
+  .topnav .icon:hover {
+      border:none;
   }
   
   @media screen and (max-width: 600px) {
