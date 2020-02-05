@@ -231,9 +231,9 @@ header {
     animation-iteration-count: 1;
 }
 .hoverCard1 {
-    width:35%;
-    margin-top: 150px;
-    margin-left: 500px;
+    width:75%;
+    margin-left: 350px;
+    margin-bottom: 250px;
 }
 .styleboard {
     width: 100%;
@@ -317,6 +317,11 @@ header {
     }
     .styleImg {
         margin-left: 100px;
+    }
+    .hoverCard1 {
+        width:75%;
+        margin-left: 35px;
+        margin-bottom: 50px;
     }
 }
 @media only screen and (max-width:500px){
