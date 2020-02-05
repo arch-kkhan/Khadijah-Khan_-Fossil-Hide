@@ -120,7 +120,7 @@ h1 {
      margin-right: 200px;
  }
  .mainHeader {
-     margin-left: 100px;
+     margin-left: 120px;
  }
 
 
@@ -225,10 +225,10 @@ header {
 .styleImg {
     width: 55%;
     margin-left: 300px;
-    margin-top: 0;
-    margin-bottom: 150px;
+    margin-top: 50px;
+    margin-bottom: 50px;
     animation: an 4s ease-in-out;
-    animation-iteration-count: infinite;
+    animation-iteration-count: 1;
 }
 .hoverCard1 {
     width:35%;
@@ -238,6 +238,9 @@ header {
 .styleboard {
     width: 100%;
     margin-top: 150px;
+}
+.mobilePages {
+    width: 100%;
 }
 /* Breakpoints */
 @media only screen and (max-width:1650px) {
